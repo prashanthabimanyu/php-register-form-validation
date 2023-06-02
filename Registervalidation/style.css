@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0%;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    color: darkblue;
+}
+#form{
+    width: 70%;
+    height: 1200px;
+    margin: 0% auto;
+   
+
+}
+.col-md-3{
+    margin-left: 400px;
+}
+#we{
+    margin-left: 400px;
+}
+.error{
+    color: red;
+}
